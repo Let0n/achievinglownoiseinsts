@@ -11,4 +11,4 @@ Scanning tunneling microscopy/spectroscopy (STM/S) is a powerful experimental to
 ### Here we provide the interactive Python notebook, together with its html version, for the reader to plug in his/her own data in order to analyze noise data, debug noise issues, and minimize noise in scanning tunneling spectroscopy and quasi-particle interference imaging.
 
   * This code can not be used for commercial purposes without written consent.
-  * The authors will be pleased if the reader cites "J. F. Ge, M. Ovadia, and J. E. Hoffman, *Rev. Sci. Instrum.* **90**, 000000 (2019)" in publications. [See the article](https://doi.org/10.1063/1.5111989)
+  * The authors will be pleased if the reader cites "J. F. Ge, M. Ovadia, and J. E. Hoffman, *Rev. Sci. Instrum.* **90**, 101401 (2019)" in publications. [See the article](https://doi.org/10.1063/1.5111989)
