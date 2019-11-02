@@ -12,3 +12,5 @@ Scanning tunneling microscopy/spectroscopy (STM/S) is a powerful experimental to
 
   * This code can not be used for commercial purposes without written consent.
   * The authors will be pleased if the reader cites "J. F. Ge, M. Ovadia, and J. E. Hoffman, *Rev. Sci. Instrum.* **90**, 101401 (2019)" in publications. [See the article](https://doi.org/10.1063/1.5111989)
+
+![alt text](https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/rsi/2019/rsi.2019.90.issue-10/rsi.2019.90.issue-10/20191001-01/rsi.2019.90.issue-10.largecover.jpg)
